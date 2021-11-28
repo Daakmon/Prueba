@@ -1,7 +1,7 @@
 public class PruebaVersiones{
     public static void main(String[] args) {
-        System.out.println("º");
+        System.out.println("Me cago en tupu º");
 
-        //Versión 1
+        //Versión 2º
     }
 }
