@@ -2,6 +2,10 @@ public class PruebaVersiones{
     public static void main(String[] args) {
         System.out.println("º");
 
-        //Main
+        //Rama B
+        
+        for(int i=0; i<10; i++){
+            System.out.println(i);
+        }
     }
 }
